@@ -1,0 +1,4 @@
+com\howtographql\hackernews\Query.class
+com\howtographql\hackernews\GraphQLEndpoint.class
+com\howtographql\hackernews\LinkRepository.class
+com\howtographql\hackernews\Link.class
